@@ -1,7 +1,9 @@
 Arcade-Shooter-
 ===============
 
-This is the basic beginning structure of an arcade shooter game
+This repository contains the basic beginning structure of an arcade shooter game.  I have added files corresponding
+to every script that I've written, but the game is powered by the Unity engine.  These scripts are attached to actors
+within the game world in order to create a working game.
 
 1) Description
 This game is a typical arcade shooter similar to Geometry Wars or Asteroids.
