@@ -5,6 +5,8 @@ This repository contains the basic beginning structure of an arcade shooter game
 to every script that I've written, but the game is powered by the Unity engine.  These scripts are attached to actors
 within the game world in order to create a working game.
 
+*** The bulk of the code can be found in player.cs, bullet1.cs, enemy1.cs, and sceneManager.cs
+
 1) Description
 This game is a typical arcade shooter similar to Geometry Wars or Asteroids.
 The goal of the game is to survive for as long as possible and get a high
